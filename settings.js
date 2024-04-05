@@ -22,13 +22,13 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94719199757','94703475691'];
+global.ownername = 'SAHIL KING';
+global.owner = [923474703858',923201151138'];
 global.premium = ['94719199757','94703475691'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
-global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
-global.sessionName = 'session';
+global.packname = 'SAHIL KING';
+global.author = 'SAHIL KING 👑 ♥️ ♥️ ♥️';
+global.caption = 'https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h';
+global.sessionName = 'SAHIL KING';
 global.prefa = ['!', '.'];
 global.sp = '✪';
 global.mess = {
@@ -45,8 +45,8 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
 global.link = 'https://youtube.com/@gamingewingyt6216?si=IHmBhi2R69ao6jcG'
-global.linkGroup = 'https://chat.whatsapp.com/JNAASTo0fMo3N4luk8arve'  
-global.logo = process.env.LOGO || "https://telegra.ph/file/bb92c9c4e66b6b6045feb.jpg",        
+global.linkGroup = 'https://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70'  
+global.logo = process.env.LOGO || "https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h",        
 global.ANTI_BOT = process.env.ANTI_BOT || "false",        
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
